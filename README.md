@@ -13,6 +13,9 @@
 
 :flag_cr:
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
