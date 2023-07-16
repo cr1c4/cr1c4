@@ -8,9 +8,9 @@
 - 📫 I regularly upload posts to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Azure Costa Rica](https://www.linkedin.com/groups/12786448/)
 &nbsp;
 
-- 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
-
 - 📫 How to reach me **chernandez3.14@outlook.com**
+
+- 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
 -  <code><img height="15" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"></code> Microsoft Certification: [Credly](https://www.credly.com/users/cristian-hernandez.f4bd5cd3)
 
