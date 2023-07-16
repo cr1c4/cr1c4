@@ -11,6 +11,7 @@
 
 :flag-cr:
 
+:flag_cr:
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
