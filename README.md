@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on my personal [TheCrica](https://thecrica.com/)
 
+- 👯 Looking to collaborate with the Microsoft Azure community on [azure-share](https://github.com/cr1c4/azure-share)
+
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
