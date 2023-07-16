@@ -17,7 +17,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)
+[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
 
 
 <h3 align="left">Languages and Tools:</h3>
