@@ -14,7 +14,7 @@
 
 - :microsoft: Microsoft Certification: [Credly](https://www.credly.com/users/cristian-hernandez.f4bd5cd3)
 
-- <code><img height="20" src="URL_del_logo_de_Microsoft"></code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"></code>
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60444762-2a03-4851-ae95-251cfb9c3efe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
