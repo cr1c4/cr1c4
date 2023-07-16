@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Hernández</h1>
 <h3 align="center">Azure Cloud Architect</h3>
 
-- 🔭 I’m currently working on [TheCrica](https://thecrica.com/)
+- 🔭 I’m currently working on my personal [TheCrica](https://thecrica.com/)
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
