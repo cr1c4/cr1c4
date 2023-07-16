@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
 
-  ![Bandera de Costa Rica](https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg)
+:costa_rica:
 
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
