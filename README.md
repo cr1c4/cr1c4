@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Hernández</h1>
 <h3 align="center">Azure Cloud Architect</h3>
 
-- 🔭 I’m currently working on my personal [TheCrica](https://thecrica.com/)
+- 🔭 I am currently working on creating [TheCrica](https://thecrica.com/) App
 
 - 👯 Looking to collaborate with the Microsoft Azure community on [azure-share](https://github.com/cr1c4/azure-share)
 
