@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
 
--  <code><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"></code> Microsoft Certification: [Credly](https://www.credly.com/users/cristian-hernandez.f4bd5cd3)
+-  <code><img height="15" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"></code> Microsoft Certification: [Credly](https://www.credly.com/users/cristian-hernandez.f4bd5cd3)
 
 <h3 align="left">Connect with me:</h3>
 
