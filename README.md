@@ -8,14 +8,6 @@
 - 📫 How to reach me **chernandez3.14@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chernandez314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-hern%c3%a1ndez-fallas-453b49175/" height="30" width="40" /></a>
-</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Cristian Hernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
 
