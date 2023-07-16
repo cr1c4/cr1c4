@@ -5,15 +5,7 @@
 
 - 👯 Looking to collaborate with the Microsoft Azure community on [azure-share](https://github.com/cr1c4/azure-share)
 
-- 📫 How to reach me **chernandez3.14@outlook.com**
-
-:costa_rica:
-
-:flag-cr:
-
-:flag_cr:
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Azure Costa Rica](https://www.linkedin.com/groups/12786448/)
+- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Azure Costa Rica](https://www.linkedin.com/groups/12786448/)
 &nbsp;
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
