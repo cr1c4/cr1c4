@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TheCrica](https://thecrica.com/)
 
-- 🌱 I’m currently learning Full-Stack Development :zap: |  Artificial Intelligence  :fire:	
+- 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  Artificial Intelligence  :fire:	
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
 
