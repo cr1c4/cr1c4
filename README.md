@@ -13,7 +13,7 @@
 
 :flag_cr:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/groups/12786448/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Azure Costa Rica](https://www.linkedin.com/groups/12786448/)
 &nbsp;
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
