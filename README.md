@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **chernandez3.14@outlook.com**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60444762-2a03-4851-ae95-251cfb9c3efe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
