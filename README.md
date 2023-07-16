@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andres Hernández</h1>
+<h1 align="center">Hi 👋, I'm Cristian Hernández</h1>
 <h3 align="center">Azure Cloud Architect</h3>
 
 - 🔭 I’m currently working on my personal [TheCrica](https://thecrica.com/)
