@@ -9,6 +9,8 @@
 
 :costa_rica:
 
+:flag-cr:
+
 
 - 🌱 I’m currently learning&nbsp;Full-Stack Development :zap: |  &nbsp;Artificial Intelligence  :fire:	
 
