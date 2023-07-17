@@ -16,6 +16,10 @@
 
 <h3 align="left">Projects:</h3>
 
+**[azure-share](https://github.com/cr1c4/azure-share)**
+
+**[The Crica](https://thecrica.com/)**
+
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
