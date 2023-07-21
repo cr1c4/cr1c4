@@ -4,11 +4,12 @@
 - 🔭 I am currently working on creating [TheCrica](https://thecrica.com/) App
 
 - 👯 Looking to collaborate with the Microsoft Azure community on
+  
     [azure-share](https://github.com/cr1c4/azure-share)
 
-    [azure-share](https://github.com/cr1c4/azure-calculator-fields)
+    [azure-calculator-fields](https://github.com/cr1c4/azure-calculator-fields)
 
-    [azure-share](https://github.com/cr1c4/azure-cert-summary)
+    [azure-cert-summary](https://github.com/cr1c4/azure-cert-summary)
 
 - 📫 I regularly upload posts to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Azure Costa Rica](https://www.linkedin.com/groups/12786448/)
 &nbsp;
